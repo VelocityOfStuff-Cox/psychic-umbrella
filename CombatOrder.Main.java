@@ -5,7 +5,7 @@
 *  This program also serves as an example of shifting elements to the left by
 * two places in an array.
 *
-* Programmer: <|David Cox|>
+* Programmer: <|VelocityOfStuff|>
 * Version: <|1.0|>
 * Since: <|03/07/2022|>
 */
