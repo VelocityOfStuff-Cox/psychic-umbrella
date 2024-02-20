@@ -1,5 +1,5 @@
 /*
-* Programmer: <|David COx|>
+* Programmer: <|VelocityOfStuff|>
 * Version: <|1.0|>
 * Since: <|10/12/2023|>
 */
