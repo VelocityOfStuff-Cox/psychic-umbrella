@@ -1,0 +1,10 @@
+Main.java lines 85 - 93
+    String playName = fillSheet.nextLine(); 
+    String charName = fillSheet.nextLine();
+    String back = fillSheet.nextLine();
+    String spec = fillSheet.nextLine();
+    String pers = fillSheet.nextLine();
+    String idea = fillSheet.nextLine();
+    String bnd = fillSheet.nextLine();
+    String flw = fillSheet.nextLine();
+    fillSheet.close();
