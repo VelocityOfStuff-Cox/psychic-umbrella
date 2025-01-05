@@ -5,7 +5,6 @@
 All of the projects in this repository are single file projects that can be run by putting the source file into a compiler and pressing run.
 A good place to do this without installing any extra software is replit.com :: https://docs.replit.com/getting-started/intro-replit
 You can also run any of the programs in Little Bits in the IDE of your choice given the language of the project is supported by it.
-Merge
 ## Project Descriptions
 
 #### System Neutral Character Sheet
